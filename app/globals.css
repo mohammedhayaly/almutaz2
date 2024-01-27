@@ -18,10 +18,11 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  /* Red color gradient from top to bottom */
+  background: linear-gradient(to bottom, #7e7ee8, #1CB5E0);
+}
+
+body {
+  color: rgb(2, 2, 2); /* Set font color to white */
+  /* Your other CSS styles */
 }
