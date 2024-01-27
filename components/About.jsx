@@ -1,16 +1,33 @@
+
+'use client'
+
 import React from 'react'
 
 const About = () => {
+    
+
+  
+   
+
+            
+
+    
+
+
+
+
+
+
+
+
   return (
     <div>
+      <p>image</p>
+      <p>header</p>
+      <p>article</p>
 
-
-        <p>image </p>
-        <p>header</p>
-        <p>article</p>
-
-
-      
+    
+    
     </div>
   )
 }
